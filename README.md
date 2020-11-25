@@ -42,7 +42,7 @@ print("════════════════════════�
 ![gambar output](GAMBAR/SSLATIHAN.png)
 
 ## TugasPraktikum 4
-![gambar output](GAMBAR/TugasPratikum.PNG)
+![gambar output](GAMBAR/TugasPratikum.png)
 
 ## Hasil Source Code
 ```python
